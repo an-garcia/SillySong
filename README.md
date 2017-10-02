@@ -1,7 +1,7 @@
 # SillySong
 
 
-![Scheme](/readmeImages/SimulatorScreenShot-iPhone8Plus-2017-10-01at20.16.40.png)
+![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-10-01at20.16.40.png)
 
 
 SillySong is an iOS sample application that composes a song.
